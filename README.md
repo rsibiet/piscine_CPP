@@ -1,6 +1,6 @@
 # piscine_CPP
 
-Résumé: 2 semaine intensives pour apprendre le langage C++.
+Résumé: 2 semaines intensives pour apprendre le langage C++.
 
 Sujet du j00 : https://github.com/rsibiet/piscine_CPP/blob/master/cpp_d00/d00.en.pdf
 
